@@ -20,5 +20,11 @@ vignettes/*.pdf
 .httr-oauth
 .Rproj.user
 
+<<<<<<< HEAD
+=======
+# Zip files
+*.zip
+
+>>>>>>> eed182e564f6ab2f6351d0af9c8c36f7a5c25378
 # Backup files
 *~
